@@ -1,5 +1,5 @@
 //austringer(masterworked)
 dimwishlist:item=2429822977&perk=1168162263,2846385770#notes:pvp
 
-//austringer
-dimswishlist:item=2857012626&perk=1168162263,2846385770#notes:god roll
+//service revolver
+dimwishlist:item=834081972&perk=1015611457,24772551,1926090090#notes: pve
