@@ -2,4 +2,4 @@
 dimwishlist:item=2429822977&perk=1168162263,2846385770#notes:pvp
 
 //service revolver
-dimwishlist:item=834081972#notes:pve
+dimwishlist:item=834081972&perk=1168162263#notes:pve
